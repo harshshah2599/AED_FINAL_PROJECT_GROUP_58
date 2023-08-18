@@ -1,6 +1,6 @@
 # AED_FINAL_PROJECT_GROUP_58
  
-FOSTER SUPPORT MANAGEMENT SYSTEM
+FOSTER CARE - SUPPORT MANAGEMENT SYSTEM
 
 Built a Java Swing application to give children in many areas access to a centralized system for meeting their fundamental requirements within a non-profit foster support organization.
 This program helps youngsters be cared for in a way that doesn't deprive them of necessities and significantly influences their development. Universities are assigned based on the rules, counselors are assigned, kids get checked out in hospitals, NGOs ask restaurants to take care of their requirements, and delivery people accept orders. The program collects data on how Foster Support NGOs are doing generally.
